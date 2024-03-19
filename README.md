@@ -4,7 +4,7 @@
 
 The Integrated CSV to MySQL & CS-Cart API Uploader is a versatile Python application designed for seamless data management and synchronization between local CSV files, MySQL databases, and CS-Cart platforms. This utility enables users to efficiently upload data from CSV files into a MySQL database and simultaneously create product entries on a CS-Cart store through its API, ensuring data consistency across systems. Featuring a graphical user interface for file selection and comprehensive error handling, this tool caters to database administrators, e-commerce managers, and developers looking for an automated solution to manage product inventories and data workflows.
 
-![Project Image Overview](https://github.com/DevRex-0201/Project-Images/blob/main/https://github.com/DevRex-0201/Project-Images/blob/main/Py-CS-Cart-Products-Uploader.jpeg)
+![Project Image Overview](https://github.com/DevRex-0201/Project-Images/blob/main/Py-CS-Cart-Products-Uploader.jpeg)
 
 ## Features
 
